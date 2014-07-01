@@ -1,3 +1,6 @@
 [submodule "rtl8188_hostap"]
 	path = rtl8188_hostap
 	url = https://github.com/flowztul/rtl8188_hostap
+[submodule "rtl8188eu"]
+	path = rtl8188eu
+	url = https://github.com/lwfinger/rtl8188eu
