@@ -1,0 +1,3 @@
+[submodule "rtl8188_hostap"]
+	path = rtl8188_hostap
+	url = https://github.com/flowztul/rtl8188_hostap
