@@ -21,4 +21,6 @@ make
 ```
 
 ## Running hostapd
+```
 sudo rtl8188_hostap/hostapd/hostapd configuration/hostapd/hostapd.conf
+```
